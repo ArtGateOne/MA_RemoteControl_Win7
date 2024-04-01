@@ -1,0 +1,23 @@
+{
+  "name": "ma_remotecontrol_win7",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "ArtGateOne",
+  "license": "ISC",
+  "dependencies": {
+    "easymidi": "^3.1.0",
+    "robotjs": "^0.6.0",
+    "websocket": "^1.0.34"
+  }
+}
